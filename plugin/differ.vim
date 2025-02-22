@@ -1,3 +1,9 @@
+" vim-differ - Diff windows easily
+"
+" Author:     Artur Pyszczuk <apyszczuk@gmail.com>
+" License:    Same terms as Vim itself
+" Website:    https://github.com/apyszczuk/vim-differ
+"
 if exists ('g:loaded_differ')
     finish
 endif
